@@ -1,0 +1,2 @@
+# JavascriptSon-dev
+Patika Ödev
